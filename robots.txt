@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chuljin1.github.io/daily-fortune/sitemap.xml
